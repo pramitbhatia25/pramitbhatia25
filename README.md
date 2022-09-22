@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=pramitbhatia25&label=PROFILE+VIEWS)
 
 **pramitbhatia25/pramitbhatia25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
