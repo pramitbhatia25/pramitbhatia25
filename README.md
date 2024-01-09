@@ -9,19 +9,15 @@
 
 - 🌱 I’m currently learning: **Microsoft Azure / Deep Learning / AI.**
 
-- 👯 I’m looking to collaborate on: **hackathons / internships / you name it, I'm in..**
+- 👯 I’m looking to collaborate on: **hackathons / internships / research projects / open-source**
 
 - 👨‍💻 All of my projects are available at: [https://pramitbhatia25.github.io/Portfolio](https://pramitbhatia25.github.io/Portfolio)
-
-- 📝 I regularly write articles on: **I don't.**
-
-- 💬 Ask me about: **dont, just google it :/ (Unless its a job, then pls reach out)**
 
 - 📫 How to reach me: **pramitbhatia25@gmail.com**
 
 - 📄 Resume is here: [https://pramitbhatia25.github.io/Portfolio](https://pramitbhatia25.github.io/Portfolio)
 
-- ⚡ Fun fact: **I've switched 5 universities during my undergraduate degree.**
+- ⚡ Fun fact: **I've lived in 4 cities / been to 10+ schools / been to 3 countries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
