@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on: **hackathons / internships / research projects / open-source**
 
-- 👨‍💻 All of my projects are available at: [https://pramitbhatia25.github.io/Portfolio](https://pramitbhatia25.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at: [https://pramitbhatia.vercel.app/](https://pramitbhatia.vercel.app/)
 
 - 📫 How to reach me: **pramitbhatia25@gmail.com**
 
