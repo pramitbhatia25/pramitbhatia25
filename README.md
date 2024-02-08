@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **pramitbhatia25@gmail.com**
 
-- 📄 Resume is here: [https://pramitbhatia25.github.io/Portfolio](https://pramitbhatia25.github.io/Portfolio)
+- 📄 Resume is here: [https://pramitbhatia.vercel.app/](https://pramitbhatia.vercel.app/)
 
 - ⚡ Fun fact: **I've lived in 4 cities / been to 10+ schools / been to 3 countries.**
 
